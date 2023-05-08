@@ -1,7 +1,7 @@
 
-I am Mohammad Alatroush
-Software Test Engineer
-📨mohammadalatroush@gmail.com
+-I am Mohammad Alatroush.
+-Software Test Engineer.
+-📨mohammadalatroush@gmail.com.
 <!--..........................
 **mohammadtarek/mohammadtarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
